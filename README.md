@@ -10,9 +10,9 @@ I’m a Software Engineer focused on building scalable, type-safe web applicatio
 
 | Category | Tools |
 | :--- | :--- |
-| **Frontend** | React 19, Next.js 15 (App Router), Tailwind CSS, TypeScript |
+| **Frontend** | React 19, Next.js 15 (App Router), Tailwind CSS, TypeScript , React Native|
 | **Backend** | Node.js, PostgreSQL, Prisma, REST APIs |
-| **DevOps/Tools** | Git, Docker, CI/CD, Linux |
+| **DevOps/Tools** | Git, Docker, CI/CD |
 
 ---
 
