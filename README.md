@@ -29,13 +29,6 @@ I stay on the cutting edge by participating in the development of the tools I us
 * **Next.js Ecosystem:** Actively involved in reporting and discussing edge-case bugs in Next.js 15+ to help stabilize the framework for the community.
 * **Continuous Learning:** Deep-diving into React 19 Server Components and advanced performance optimization.
 
----
-
-### 📊 Stats & Activity
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasEdwa&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEdwa&layout=compact&theme=transparent&hide_border=true)
-
----
 
 ### 🤝 Connect with me
 - **Portfolio:** [webslucasdev.com](https://webslucasdev.com)
